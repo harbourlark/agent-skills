@@ -31,6 +31,7 @@ Or copy `skills/siebly-crypto-exchange-api` into your agent's skills folder (for
 - [Coinbase](https://siebly.io/sdk/coinbase/javascript)
 - [Kraken](https://siebly.io/sdk/kraken/javascript)
 - [HTX](https://siebly.io/sdk/htx/javascript)
+- [Hyperliquid](https://siebly.io/sdk/hyperliquid/javascript)
 
 More guides for AI coding agents: [siebly.io/ai](https://siebly.io/ai) and [llms.txt](https://siebly.io/llms.txt).
 
