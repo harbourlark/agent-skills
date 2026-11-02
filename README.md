@@ -22,16 +22,16 @@ Or copy `skills/siebly-crypto-exchange-api` into your agent's skills folder (for
 
 ## SDKs covered
 
-- [Binance](https://siebly.io/sdk/binance/javascript)
-- [Bybit](https://siebly.io/sdk/bybit/javascript)
-- [OKX](https://siebly.io/sdk/okx/javascript)
-- [Gate](https://siebly.io/sdk/gate/javascript)
-- [Bitget](https://siebly.io/sdk/bitget/javascript)
-- [KuCoin](https://siebly.io/sdk/kucoin/javascript)
-- [Coinbase](https://siebly.io/sdk/coinbase/javascript)
-- [Kraken](https://siebly.io/sdk/kraken/javascript)
-- [HTX](https://siebly.io/sdk/htx/javascript)
-- [Hyperliquid](https://siebly.io/sdk/hyperliquid/javascript)
+- [Binance JavaScript SDK](https://siebly.io/sdk/binance/javascript)
+- [Bybit JavaScript SDK](https://siebly.io/sdk/bybit/javascript)
+- [OKX JavaScript SDK](https://siebly.io/sdk/okx/javascript)
+- [Gate JavaScript SDK](https://siebly.io/sdk/gate/javascript)
+- [Bitget JavaScript SDK](https://siebly.io/sdk/bitget/javascript)
+- [KuCoin JavaScript SDK](https://siebly.io/sdk/kucoin/javascript)
+- [Coinbase JavaScript SDK](https://siebly.io/sdk/coinbase/javascript)
+- [Kraken JavaScript SDK](https://siebly.io/sdk/kraken/javascript)
+- [HTX JavaScript SDK](https://siebly.io/sdk/htx/javascript)
+- [Hyperliquid JavaScript SDK](https://siebly.io/sdk/hyperliquid/javascript)
 
 More guides for AI coding agents: [siebly.io/ai](https://siebly.io/ai) and [llms.txt](https://siebly.io/llms.txt).
 
